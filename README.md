@@ -1,10 +1,10 @@
-# Comfy Sloth Ecommerce React App
+# Gadget Junkie Ecommerce React App
 
-Welcome to Comfy Sloth, your go-to destination for high-quality home furniture. With Comfy Sloth, you can explore a wide range of furniture products, add them to your cart, and seamlessly proceed to checkout. Whether you're looking for sofas, chairs, tables, or any other furniture items, we've got you covered!
+Welcome to Gadget Junkie, A modern and user-friendly gadget store web application built with React, where users can explore and purchase various gadgets.
 
 ## Table of Contents
 
-- [Comfy Sloth Ecommerce React App](#comfy-sloth-ecommerce-react-app)
+- [Gadget Junkie Ecommerce React App](#gadget-junkie-ecommerce-react-app)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Getting Started](#getting-started)
@@ -16,11 +16,11 @@ Welcome to Comfy Sloth, your go-to destination for high-quality home furniture. 
 
 ## About
 
-Comfy Sloth is an ecommerce ReactJS app designed to provide users with an enjoyable shopping experience for home furniture. You can learn more about our mission and values in the [About](#about) section of the app.
+Gadget Junkie is an ecommerce ReactJS app designed to provide users with an enjoyable shopping experience for home furniture. You can learn more about our mission and values in the [About](#about) section of the app.
 
 ## Getting Started
 
-To get started with Comfy Sloth, follow these simple steps:
+To get started with Gadget Junkie, follow these simple steps:
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `npm install` or `yarn install`.
@@ -29,7 +29,7 @@ To get started with Comfy Sloth, follow these simple steps:
 
 ## Demo
 
-Check out the live demo of Comfy Sloth: [https://abh-comfy-sloth.netlify.app](https://abh-comfy-sloth.netlify.app)
+Check out the live demo of Gadget Junkie: [https://abh-gadget-junkie.netlify.app](https://abh-gadget-junkie.netlify.app)
 
 ## Features
 
@@ -51,6 +51,7 @@ Check out the live demo of Comfy Sloth: [https://abh-comfy-sloth.netlify.app](ht
 - [ESLint](https://eslint.org/)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [react-icons](https://react-icons.github.io/react-icons/)
+- [airtable-node](https://www.npmjs.com/package/airtable-node)
 
 ## Contributing
 
